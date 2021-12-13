@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-2zocimewa@ps%lnfcv-_za^74t*$p7s)jpcj(hro+8*oo8t4n+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['my-carbon-footprint5.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['mysterious-atoll-72899.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
